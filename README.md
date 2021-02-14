@@ -9,10 +9,10 @@ python 3.8 and pipenv installed.
 
 ## Setup 
 Open directory in a terminal (at the lv op the pipfile) and run
-'''pipenv install''' 
+```pipenv install```
 
-after the setup run 
+After the setup run 
 
-'''pipenv run app.py'''  
+```pipenv run app.py```  
 
 to start the server. brows to local host at port 8080
