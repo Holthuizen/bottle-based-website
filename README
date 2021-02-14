@@ -1,18 +1,18 @@
-REQUIREMENTS
+COMPONENTS
 
-category based
-category's, tags and filters replace menu's 
-
-dynamic titles 
-auto age display / updating 
-
-cate a unique id per dog. 
-base url points to one dog
-base url + index point to image 1 etc. 
-
-overview table of dogs, name, nr, id,  race , color. 
-internal statistics 
+working login system using http-only cookies
 
 
 
-more uniform style 
+## Requirements: 
+python 3.8 and pipenv installed. 
+
+## Setup 
+Open directory in a terminal (at the lv op the pipfile) and run
+'''pipenv install''' 
+
+after the setup run 
+
+'''pipenv run app.py'''  
+
+to start the server. brows to local host at port 8080
