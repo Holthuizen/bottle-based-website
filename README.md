@@ -1,7 +1,6 @@
-COMPONENTS
-
-working login system using http-only cookies
-
+## COMPONENTS
+- working login system using http-only cookies
+- etc. (more is comming)
 
 
 ## Requirements: 
