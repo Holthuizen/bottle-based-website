@@ -4,7 +4,9 @@
 
 
 ## Requirements: 
-python 3.8 and pipenv installed. 
+python 3.8 and pipenv installed.
+
+pipenv can be installed with ```pip install pipenv```, see https://pypi.org/project/pipenv/ 
 
 ## Setup 
 Open directory in a terminal (at the lv op the pipfile) and run
