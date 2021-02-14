@@ -6,8 +6,10 @@ else:
 end
 %>
 <body>
+  <a href="{{path}}">HOME</a>
+  <a href="{{path}}/admin">ADMIN</a>
+
   %include('content.tpl')
 </body>
-
 % include('footer.tpl')
 

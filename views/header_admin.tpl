@@ -6,3 +6,5 @@
 </head>
 
 <h2>ADMIN PAGE</h2>
+
+<a href="{{path}}/admin/logout">LOGOUT</a>
