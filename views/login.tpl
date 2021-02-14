@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h2>HTML Forms</h2>
+<h2>LOGIN</h2>
 
 <form action="/login" method="POST">
   <label for="fname">User name:</label><br>
